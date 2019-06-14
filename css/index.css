@@ -416,6 +416,7 @@ html {
 .page-mainer .cooperation-section .container .cooperation-list .cooperation-item .cooperation-info-list {
   margin-bottom: 40px;
   text-align: left;
+  height: 120px;
 }
 .page-mainer .cooperation-section .container .cooperation-list .cooperation-item .cooperation-info-list .cooperation-info-item {
   padding-left: 140px;
